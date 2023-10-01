@@ -18,10 +18,10 @@ public class DuckSimulator {
         
         System.out.println("pilih angka");
         System.out.println("1. Mallar Duck");
-        System.out.println("2. Bebek Squeak");
-        System.out.println("3. muteduck");
-        System.out.println("4. FlyNoWay");
-        System.out.println("5. FlyRooketPowered");
+        System.out.println("2. Model Duck");
+        System.out.println("3. Rubber Duck");
+        System.out.println("4. Decoy Duck");
+        System.out.println("5. Red Head Duck");
         
         int pilihan = pilih.nextInt();
         
